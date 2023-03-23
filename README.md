@@ -3,6 +3,7 @@ The goal is making a prove right about the logic of search codes. There was fail
 
 Demo in [Codepen](https://codepen.io/fionataeyang/pen/RwYqjyX)
 
+### Javascript
 ```javascript
 const users = [
   "Diana Turcotte", 
@@ -57,6 +58,7 @@ function renderList(arr) {
 
 ```
 
+### HTML
 ```HTML
 <div class="container">
   <input id="search" type="text" placeholder="Search">
